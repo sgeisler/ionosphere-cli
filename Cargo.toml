@@ -1,0 +1,10 @@
+[package]
+name = "ionosphere-cli"
+version = "0.1.0"
+authors = ["Sebastian Geisler <sebastian@blockstream.io>"]
+edition = "2018"
+
+[dependencies]
+ionosphere = "0.2.0"
+shellexpand = "1.0.0"
+structopt = "0.2.14"
